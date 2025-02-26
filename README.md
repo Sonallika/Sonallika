@@ -11,11 +11,11 @@ I’m an **Electrical and Electronics Engineering student** in my junior year, e
 
 ---
 
-## 🔭 I’m Currently Working On:  
+## 🌟 I’m Currently Working On:  
 - **Remote Health Monitoring System for Hospital Patients** 🏥  
 - **Prepaid Smart Energy Meter with a SIM800 Module** ⚡  
 - **Simulating Thermal Behavior of Hybrid Supercapacitors for EVs** 🔋  
-- **Localization of Magnetic Field Using Rx Coil** 🧲  
+- **Localization of Magnetic Field Using Rx Coil** 🪢  
 - **Predictive Analysis of YouTube Videos Using Neural Networks** 📊  
 
 ---
@@ -26,35 +26,38 @@ I’m an **Electrical and Electronics Engineering student** in my junior year, e
 ## 🤖 Minor in Robotics & Automation:  
 I’m passionate about **AI-powered automation** and exploring its applications in embedded systems.  
 
-## 👯 I’m Looking to Collaborate On:  
-**AI-powered embedded systems & IoT automation projects.**  
+## 📚 I’m Looking to Collaborate On:  
+**AI-powered embedded systems & IoT automation projects.** 
 
 ---
 
 ## 🛠️ Tech Stack  
-![C (Proficient)](https://img.shields.io/badge/C-Proficient-informational?style=for-the-badge&logo=c&logoColor=white)  
-![C++ (Beginner)](https://img.shields.io/badge/C%2B%2B-Beginner-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python (Intermediate)](https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![LPC2148](https://img.shields.io/badge/LPC2148-Blue?style=for-the-badge)  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-Proficient-informational?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-Beginner-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/LPC2148-Blue?style=for-the-badge" alt="LPC2148"/>
+</p>
 
 ---
   
-## 🔗 Connect with Me  
-<p align="left">
+## 👥 Connect with Me  
+<p align="center">
   <a href="https://www.linkedin.com/in/sonallika-v-2928052b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:sonallikav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/Sonallika">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
+<p align="center">
+  <strong>Email:</strong> sonallikav@gmail.com
+</p>
+
 ---
 
 ## ⚡ Fun Fact:    
-☕ **Fueled by coffee**, 🎵 **jamming to pop music**, and 🎭 **obsessed with Broadway musicals** when I’m not tinkering with circuits and automating things!  
+☕ **Fueled by coffee**, 🎵 **jamming to pop music**, and 🎭 **obsessed with Broadway musicals** when I’m not tinkering with circuits and automating things!
