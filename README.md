@@ -43,7 +43,7 @@ I’m passionate about **AI-powered automation** and exploring its applications 
 
 ## 🔗 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sonallika-v-2928052b9/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sonallikav@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Sonallika"><img src="https://img.shields.io/badge/GitHub-Sonallika-lightgrey?style=for-the-badge&logo=github" /></a>
 </p>
