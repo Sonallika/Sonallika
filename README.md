@@ -21,7 +21,7 @@
 <h4>🔋 Simulating Thermal Behavior of Hybrid Supercapacitors for EVs</h4>
 <h4>🧲 Localization of Magnetic Field Using Rx Coil</h4>
 <h4>📊 Predictive Analysis of YouTube Videos Using Neural Networks</h4>
-
+<h4>📡 Industrial Safety & Automation for Tank Monitoring Using Doppler Radar</h4>
 </div>
 
 ---
