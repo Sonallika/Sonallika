@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-<h3> I’m an <strong>Electrical and Electronics Engineering student</strong> in my junior year, exploring the intersection of <strong>hardware and intelligence</strong>. From designing <strong>smart embedded systems</strong> to optimizing <strong>power and automation</strong>, I love tackling real-world challenges. Whether it's <strong>building connected devices</strong>, <strong>enhancing control systems</strong>, or <strong>working with intelligent automation</strong>, I’m always eager to innovate and learn! </h3>
+<h3>I’m an Electrical and Electronics Engineering student in my junior year, exploring the intersection of hardware and intelligence. From designing smart embedded systems to optimizing power and automation, I love tackling real-world challenges. Whether it's building connected devices, enhancing control systems, or working with intelligent automation, I’m always eager to innovate and learn!</h3>
 
 ---
 
@@ -73,7 +73,10 @@
 ---
 
 ## 📚 I’m Looking to Collaborate On  
-<h4><strong>💡 AI-powered embedded systems & IoT automation projects.</strong></h4> 
+<h4>I'm excited to collaborate on projects that combine my passion for embedded systems, robotics, and AI. I'm particularly interested in projects that involve: </h4> 
+<h4>📡 Developing AI-powered embedded systems for real-time applications.</h4>
+<h4>🤖 Building intelligent automation solutions for robotics and IoT devices.</h4>
+<h4>⚡ Designing and implementing innovative sensor networks for data acquisition and analysis.</h4> 
 
 ---
 
