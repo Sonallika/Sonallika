@@ -7,41 +7,44 @@
 ---
 
 ## 🚀 About Me  
-<h3>I’m an Electrical and Electronics Engineering student in my junior year, exploring the intersection of hardware and intelligence. From designing smart embedded systems to optimizing power and automation, I love tackling real-world challenges. Whether it's building connected devices, enhancing control systems, or working with intelligent automation, I’m always eager to innovate and learn!</h3>
+<h3 style="text-align: justify;">
+    I’m an Electrical and Electronics Engineering major with a minor in Robotics and Automation, currently in my junior year, exploring the intersection of hardware and intelligence. From designing smart embedded systems to optimizing power and automation, I love tackling real-world challenges. Whether it's building connected devices, enhancing control systems, or working with intelligent automation, I’m always eager to innovate and learn!
+</h3>
 
 ---
 
 ## 🌟 I’m Currently Working On  
-<img align="right" alt="coding-gif" width="400" height="200" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
+
+<img align="right" alt="learning-gif" width="430" height="275" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" > 
 
 <div align="left">
-
-<h4>🏥 Remote Health Monitoring System for Hospital Patients</h4>
-<h4>⚡ Prepaid Smart Energy Meter with a SIM800 Module</h4>
-<h4>🔋 Simulating Thermal Behavior of Hybrid Supercapacitors for EVs</h4>
-<h4>🧲 Localization of Magnetic Field Using Rx Coil</h4>
-<h4>📊 Predictive Analysis of YouTube Videos Using Neural Networks</h4>
-<h4>📡 Industrial Safety & Automation for Tank Monitoring Using Doppler Radar</h4>
+  <ul>
+    <h4>🏥<b>Remote Health Monitoring System for Hospital Patients</b></h4>
+    <h4>⚡ <b>Prepaid Smart Energy Meter with a SIM800 Module</b></h4>
+    <h4>🔋 <b>Simulating Thermal Behavior of Hybrid Supercapacitors for EVs</b></h4>
+    <h4>🧲 <b>Localization of Magnetic Field Using Rx Coil</b></h4>
+    <h4>📊 <b>Predictive Analysis of YouTube Videos Using Neural Networks</b></h4>
+    <h4>📡 <b>Industrial Safety & Automation for Tank Monitoring Using Doppler Radar</b></h4>
+  </ul>
 </div>
 
 ---
   
 ## 🌱 I’m Learning and exploring
-
-
-<img align="right" alt="learning-gif" width="430" height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" > 
+<img align="right" alt="coding-gif" width="400" height="160" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
 
 <div align="left"> 
-<h3> <strong>🎓 Major - </h3> </strong>
-<h4> <strong>📡 Embedded Systems </h4> </strong>
-<h4> <strong>📊 Signal Processing </h4> </strong>
-<h4> <strong>🤖 AI & Automation </h4> </strong>
-<h4> <strong>🌐 IoT & Connected Devices </h4> </strong>
-<h3> <strong>📖 Minor in Robotics & Automation - </h3> </strong>  
-<h4> </strong> Passionate about AI-powered automation and exploring its applications </h4> </strong>  
-<h4> </strong> in embedded systems. </h4> </strong>  
-  
+ <ul>
+  <h4> <strong>📡 Embedded Systems </h4> </strong>
+  <h4> <strong>📊 Signal Processing </h4> </strong>
+  <h4> <strong>🤖 AI powered Automation </h4> </strong>
+  <h4> <strong>🌐 IoT & Connected Devices </h4> </strong>
+  </ul>
 </div>
+
+
+
+
 
 ---
 ## 🛠️ Tech Stack  
@@ -86,9 +89,11 @@
   <a href="https://www.linkedin.com/in/sonallika-v-2928052b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
   <a href="https://github.com/Sonallika">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  
   📧 <strong>Email: sonallikav@gmail.com</strong>
 </p>
 </div>
