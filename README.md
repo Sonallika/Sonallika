@@ -13,20 +13,9 @@
 
 ---
 
-<h2><b>🌟 I’m Currently Working On</b></h2>
+<h3><b>🌟 I’m Currently Working On Qunatum Wavelet Processing for ECG signal noise cancellation as a part of my inal year project</b></h3>
 
-<img align="right" alt="learning-gif" width="430" height="275" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" > 
-
-<div align="left">
-  <ul>
-    <h4>🏥<b>Remote Health Monitoring System for Hospital Patients</b></h4>
-    <h4>⚡ <b>Prepaid Smart Energy Meter with a SIM800 Module</b></h4>
-    <h4>🔋 <b>Simulating Thermal Behavior of Hybrid Supercapacitors for EVs</b></h4>
-    <h4>🧲 <b>Localization of Magnetic Field Using Rx Coil</b></h4>
-    <h4>📊 <b>Predictive Analysis of YouTube Videos Using Neural Networks</b></h4>
-    <h4>📡 <b>Industrial Safety & Automation for Tank Monitoring Using Doppler Radar</b></h4>
-  </ul>
-</div>
+<img align="center" alt="learning-gif" width="430" height="275" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" > 
 
 ---
   
@@ -37,6 +26,7 @@
  <ul>
   <h4> <strong>📡 Embedded Systems </h4> </strong>
   <h4> <strong>📊 Signal Processing </h4> </strong>
+  <h4> <strong>🤖 VLSI system design </h4> </strong>
   <h4> <strong>🤖 AI powered Automation </h4> </strong>
   <h4> <strong>🌐 IoT & Connected Devices </h4> </strong>
   </ul>
