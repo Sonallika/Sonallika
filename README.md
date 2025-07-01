@@ -16,7 +16,7 @@
 <h3><b>🌟 I’m Currently Working On Qunatum Wavelet Processing for ECG signal noise cancellation as a part of my inal year project</b></h3>
 
 <div align="center">
-  <img alt="learning-gif" width="430" height="275" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <img alt="learning-gif" width="630" height="275" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
 
